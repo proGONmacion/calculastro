@@ -5,18 +5,29 @@ Es una calculadora con la que puedes obtener información de la orbita elíptica
 Algoritmo pseudo código
 
 #variables
+
 data_disp
+
 data_req
+
 #listas
+
 data = [periodo, afelio, perihelio, ... ]
+
 data_resul = [..., ...]
+
 
 definir fórmulas de elipses y órbitas
 
+
 imprimir data
+
 preguntar: seleccione los tipos de datos que dispone
+
 indexar lista
+
 guardar en data_disp
+
 preguntar: seleccione las unidades de los datos que dispone
 preguntar: introduzca los datos que dispone
 si data_disp = data_req
