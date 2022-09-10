@@ -24,7 +24,7 @@ imprimir data
 
 preguntar: seleccione los tipos de datos que dispone
 
-indexar lista
+indexar data
 
 guardar en data_disp
 
