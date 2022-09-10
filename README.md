@@ -34,7 +34,7 @@ preguntar: introduzca los datos que dispone
 
 si data_disp = data_req
 
-   imprimir data_resul
+    imprimir data_resul
    
 preguntar: que seleccione los tipos de datos que desea obtener
 
