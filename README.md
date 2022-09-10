@@ -40,7 +40,7 @@ preguntar: seleccione los tipos de datos que desea obtener
 
 indexar data_resul
 
-preguntar: seleccione las unidades que desa obtener
+preguntar: seleccione las unidades que desea obtener
 
 imprimir resultado
 
