@@ -4,13 +4,13 @@ Es una calculadora con la que puedes obtener información de la orbita elíptica
 
 Algoritmo pseudo código
 
-#variables
+#pseudovariables
 
 data_disp
 
 data_req
 
-#listas
+#pseudolistas
 
 data = [periodo, afelio, perihelio, ... ]
 
