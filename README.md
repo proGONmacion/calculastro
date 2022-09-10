@@ -47,7 +47,6 @@ imprimir resultado
 preguntar: si quiere cambiar unidades obtenidas
 
     preguntar: si quiere cambiar tipos de datos
-    
         preguntar: si quiere iniciar nuevo calculo
 
 
