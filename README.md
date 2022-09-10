@@ -29,15 +29,25 @@ indexar lista
 guardar en data_disp
 
 preguntar: seleccione las unidades de los datos que dispone
+
 preguntar: introduzca los datos que dispone
+
 si data_disp = data_req
+
    imprimir data_resul
+   
 preguntar: que seleccione los tipos de datos que desea obtener
+
 indexar data_resul
+
 preguntar: seleccione las unidades que desa obtener
+
 imprimir resultado
+
 preguntar: si quiere cambiar unidades obtenidas
+
     preguntar: si quiere cambiar tipos de datos
+    
         preguntar: si quiere iniciar nuevo calculo
 
 
