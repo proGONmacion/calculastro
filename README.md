@@ -14,7 +14,7 @@ data_req
 
 data = [periodo, afelio, perihelio, ... ]
 
-data_resul = [..., ...]
+data_resul = [ ... , ... ]
 
 
 definir fórmulas de elipses y órbitas
