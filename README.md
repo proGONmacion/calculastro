@@ -36,7 +36,7 @@ si data_disp = data_req
 
     imprimir data_resul
    
-preguntar: que seleccione los tipos de datos que desea obtener
+preguntar: seleccione los tipos de datos que desea obtener
 
 indexar data_resul
 
