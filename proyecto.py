@@ -1,0 +1,5 @@
+print(1, "semieje mayor")
+print(2, "semieje menor")
+print(3, "distancia focal")
+print(4, "afelio")
+print(5, "perihelio")
