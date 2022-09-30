@@ -1,8 +1,7 @@
 Contexto:
-Es una calculadora con la que puedes obtener información de la orbita elíptica de un planeta o satelite, como el tiempo de orbita, semi eje mayor o menor, afelio, perihelio, y como extra la masa del cuerpo que orbitan, solo hay que introducir los datos necesarios. En actualizaciones más avanzadas se podrá comparar 2 orbitas con puntos de intersección para comprobar si hay colisión de astros.
+Es una calculadora con la que puedes obtener información de la orbita elíptica de un planeta o satelite, como el tiempo de orbita, semi eje mayor o menor, afelio, perihelio, y la masa del cuerpo que orbitan, primero el usario debe introducir los datos que tiene acerca de lo que quiere calcular y de eso dependerán los datos que podrán obtener con las fórmulas correspondientes.
 
-
-Algoritmo pseudo código
+Algoritmo pseudocódigo
 
 #pseudovariables
 
@@ -40,13 +39,13 @@ preguntar: seleccione los tipos de datos que desea obtener
 
 indexar data_resul
 
-preguntar: seleccione las unidades que desea obtener
+preguntar: seleccione las unidades de los datos que desea obtener
 
 imprimir resultado
 
 preguntar: si quiere cambiar unidades obtenidas
 
-    preguntar: si quiere cambiar tipos de datos
+    preguntar: si quiere cambiar tipos de datos obtenidos
     
         preguntar: si quiere iniciar nuevo calculo
 
