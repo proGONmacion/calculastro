@@ -6,7 +6,7 @@ Es una calculadora con la que puedes obtener información de la orbita elíptica
 
 => Algoritmo pseudocódigo <=
 
-^
+.
 
 definir: conversión de unidades
 
@@ -26,9 +26,7 @@ data_disp = [???, ???]
 
 data_resul = [???, ???]
 
-data_reque = [???, ???]
-
-.
+data_requ = [???, ???]
 
 imprimir data
 
@@ -60,10 +58,10 @@ preguntar: seleccione las unidades de los datos que desea obtener
 
 conversión de unidades
 
-preguntar: si quiere cambiar unidades obtenidas
+preguntar si quiere cambiar unidades obtenidas
 
-    preguntar: si quiere cambiar tipos de datos obtenidos
+    preguntar si quiere cambiar tipos de datos obtenidos
     
-        preguntar: si quiere iniciar nuevo calculo
+        preguntar si quiere iniciar nuevo calculo
 
 
