@@ -1,6 +1,6 @@
 => Contexto <=
 
-Es una calculadora con la que puedes obtener información de la orbita elíptica de un planeta o satelite, como el tiempo de orbita, semi eje mayor o menor, afelio, perihelio, o la masa del cuerpo que orbitan, primero el usario debe introducir los datos que tiene acerca de lo que quiere calcular y de eso dependerán los datos que se podrán obtener con las fórmulas correspondientes. 
+Es una calculadora con la que puedes obtener información de la orbita elíptica de un planeta o satelite, como el tiempo de orbita, semi eje mayor, o la masa del cuerpo que orbitan, primero el usario debe introducir los datos que tiene acerca de lo que quiere calcular y de eso dependerán los datos que se podrán obtener con las fórmulas correspondientes. 
 
 ------------------------
 
